@@ -222,7 +222,7 @@ class _SignUpState extends State<SignUp> {
 
                                   backgroundColor: Colors.red[400],
 
-                                  content: Text('Username or password is incorrect',style: TextStyle(color: Colors.black),),
+                                  content: Text('User Already Exists',style: TextStyle(color: Colors.black),),
                                   action: SnackBarAction(
                                     label: 'Undo',
                                     textColor: Colors.green,
@@ -231,6 +231,7 @@ class _SignUpState extends State<SignUp> {
                                     },
                                   ),
                                 );
+                                Scaffold.of(context).showSnackBar(snackBar);
                               }
                             }
 
