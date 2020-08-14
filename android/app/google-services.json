@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168375497616",
+    "firebase_url": "https://unthinkable1-97e86.firebaseio.com",
+    "project_id": "unthinkable1-97e86",
+    "storage_bucket": "unthinkable1-97e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168375497616:android:bf472d6763dc3e577db915",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168375497616-743lhhuluu3icp9j1f720j735ctbs70h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClgSxX8SNFHxtJ-4CwDgvVR2O4l6ruIbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168375497616-743lhhuluu3icp9j1f720j735ctbs70h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
